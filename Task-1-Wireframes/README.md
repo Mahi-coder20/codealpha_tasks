@@ -12,4 +12,8 @@ To plan the user experience and organize the interface before creating the high-
 ## Tool Used
 - Figma
 
+## Deliverables
+- Wireframes PDF
 
+## Total Screens
+12
